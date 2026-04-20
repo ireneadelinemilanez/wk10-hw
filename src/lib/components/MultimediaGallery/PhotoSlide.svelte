@@ -84,6 +84,7 @@ USAGE EXAMPLE:
   }
 
   .caption h2 {
+    font-family: var(--font-sans);
     margin: 0 0 0.5rem;
     font-size: 1.25rem;
     line-height: 1.3;
@@ -96,6 +97,7 @@ USAGE EXAMPLE:
   }
 
   .caption p {
+    font-family: var(--font-serif);
     margin: 0 0 0.5rem;
     font-size: 0.9375rem;
     line-height: 1.5;

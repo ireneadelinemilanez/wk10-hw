@@ -48,7 +48,7 @@ USAGE EXAMPLE:
   .slide {
     height: 100%;
     flex: 0 0 100%;
-    background: black;
+    background: blue;
     display: flex;
     flex-direction: column;
   }
@@ -143,6 +143,7 @@ USAGE EXAMPLE:
   }
 
   h1 {
+    font-family: var(--font-sans);
     font-size: 2rem;
     line-height: 1.2;
     margin: 0 0 1rem;
@@ -154,6 +155,7 @@ USAGE EXAMPLE:
   }
 
   .intro {
+    font-family: var(--font-serif);
     font-size: 1.0625rem;
     line-height: 1.6;
     opacity: 0.85;

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": "photo",
+    "filename": "260412_MILANEZ_MAMDANI100-15.jpg",
+    "title": "MAMDANI RECIEVED BY NEW YORKERS",
+    "caption": "City employees, political allies and constituents cheer for Mamdani's entrance with signs displaying policy plans.",
+    "credit": "Irene Adeline Milanez / Mamdani Tracker"
+},
+{
+    "id": 2,
+    "type": "text",
+    "body": "Within his first two weeks in office, Mamdani secured $1.2 billion to help expand the city’s 3-K program and set up free child care for two-year-olds. He also announced improving bus speeds, increasing garbage containerization and opening city-subsidized grocery stores."
+},
+  {
+    "id": 3,
+    "type": "photo",
+    "filename": "260412_MILANEZ_MAMDANI100-08.jpg",
+    "title": "AFFORDABLE GROCERIES",
+    "caption": "He announced the city’s first subsidized grocery store in East Harlem to bring prices down.",
+    "credit": "Irene Adeline Milanez / Mamdani Tracker"
+  },
+  {
+    "id": 4,
+    "type": "photo",
+    "filename": "260412_MILANEZ_MAMDANI100-11.jpg",
+    "title": "A SPECIAL GUEST",
+    "caption": "Attendees near the front of the stage smile and pull out their phones to photograph a long-time Vermont senator and democratic socialist.",
+    "credit": "Irene Adeline Milanez / Mamdani Tracker"
+  },
+  {
+    "id": 5,
+    "type": "photo",
+    "filename": "260412_MILANEZ_MAMDANI100-12.jpg",
+    "title": "SANDERS CO-SIGNS MAMDANI",
+    "caption": "Bernie Sanders, Vermont senator and political mentor to Mamdani, congratulated him on starting progress on affordable grocery stores.",
+    "credit": "Irene Adeline Milanez / Mamdani Tracker"
+  },
+  {
+    "id": 6,
+    "type": "text",
+    "body": "“When we talk about making decent quality food affordable to all people, it's not only the right thing to do, in the end of the day, it's going to save money,” Bernie Sanders said during Mamdani's 100th Day Address. “Making sure our kids eat healthy food is not a radical idea, it's what every government should be doing.”"
+  }
+]

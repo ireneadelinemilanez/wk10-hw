@@ -41,12 +41,14 @@ USAGE EXAMPLE:
   }
 
   .content :global(h2) {
+    font-family: var(--font-sans);
     font-size: 1.5rem;
     margin: 0 0 1rem;
     color: white;
   }
 
   .content :global(p) {
+    font-family: var(--font-serif);
     font-size: 0.9375rem;
     line-height: 1.6;
     opacity: 0.85;
