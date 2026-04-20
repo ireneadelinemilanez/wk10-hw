@@ -48,7 +48,7 @@ USAGE EXAMPLE:
   .slide {
     height: 100%;
     flex: 0 0 100%;
-    background: black;
+    background: #271fcd;
     display: flex;
     flex-direction: column;
   }
@@ -60,7 +60,7 @@ USAGE EXAMPLE:
     background: linear-gradient(
       90deg,
       var(--color-cuny-blue-dark) 0%,
-      var(--color-accent) 50%,
+      var(#271fcd) 50%,
       var(--color-cuny-blue-light) 100%
     );
     background-size: 200% 100%;
@@ -107,7 +107,7 @@ USAGE EXAMPLE:
 
   .logo-nycity {
     background-color: var(--color-white);
-    color: var(--color-accent);
+    color: #271fcd;
     font-family: var(--font-sans);
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-extrabold);
@@ -147,7 +147,7 @@ USAGE EXAMPLE:
     font-size: 2rem;
     line-height: 1.2;
     margin: 0 0 1rem;
-    color: white;
+    color: #eaa928;
 
     @container (min-width: 768px) {
       font-size: 3.5rem;

@@ -71,7 +71,7 @@ USAGE EXAMPLE:
     margin: 0 0 1rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: white;
+    color: #eaa928;
   }
 
   p {

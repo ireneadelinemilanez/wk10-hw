@@ -88,7 +88,7 @@ USAGE EXAMPLE:
     margin: 0 0 0.5rem;
     font-size: 1.25rem;
     line-height: 1.3;
-    color: white;
+    color: #eaa928;
 
     @container (min-width: 768px) {
       font-size: 1.75rem;
