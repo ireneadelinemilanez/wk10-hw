@@ -48,7 +48,7 @@ USAGE EXAMPLE:
   .slide {
     height: 100%;
     flex: 0 0 100%;
-    background: blue;
+    background: black;
     display: flex;
     flex-direction: column;
   }
